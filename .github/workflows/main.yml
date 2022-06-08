@@ -1,4 +1,4 @@
-name: my-front
+name: aws_tutorial_front
 on:
   push:
     branches:
